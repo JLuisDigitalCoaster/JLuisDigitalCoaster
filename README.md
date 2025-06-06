@@ -3,8 +3,6 @@
 - 👀 I’m interested in scalable mobile apps, clean architecture, and performance optimization
 - 🌱 I’m currently learning advanced iOS development with SwiftUI to complement my cross-platform skills
 - 💞️ I’m looking to collaborate on apps that make a real impact — from MVPs to production-level products
-- 📫 How to reach me: j.luis@digitalcoaster.dev
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I can build both your Flutter app and your native Android module — in the same repo 😎
 
 <!---
